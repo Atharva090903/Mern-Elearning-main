@@ -1,0 +1,21 @@
+.chatbot {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .chatbot input {
+    width: 70%;
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .chatbot button {
+    padding: 5px 10px;
+  }
+  
+  .chatbot p {
+    margin-top: 10px;
+  }
+  
